@@ -1,1 +1,5 @@
-# Kaggle-
+# Kaggle- Titanic
+
+machine learning project for data prediction
+practice for the prediction of Titanic survivors
+mainly use RandomForestClassifier + logistic_regression_predictions
